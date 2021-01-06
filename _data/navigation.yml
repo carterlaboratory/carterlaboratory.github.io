@@ -1,4 +1,6 @@
 main:
+  - title: "Join Us!"
+    url: /joinus/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
