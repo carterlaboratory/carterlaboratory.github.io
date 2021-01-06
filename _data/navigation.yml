@@ -1,11 +1,18 @@
 main:
+  - title: "Research"
+    url: /research/
   - title: "Join Us!"
     url: /joinus/
-  - title: "Posts"
+  - title: "People"
+    url: /people/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Publications"
+    url: /publications/
+  - title: "Contact Us"
+    url: /contactus/
+  - title: "Photos"
+    url: /photos/
+  - title: "News"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+
