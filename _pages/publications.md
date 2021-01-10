@@ -1,7 +1,5 @@
 ---
 permalink: /publications/
-bibliography_list_attributes:
-  reversed: "reversed"
 title: "Publications"
 ---
 
