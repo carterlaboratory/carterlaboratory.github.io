@@ -3,16 +3,16 @@ permalink: /research/
 title: "Research"
 ---
 
-# Robot Team
+## Robot Team
 
-# Undergraduate Research Projects
+## Undergraduate Research Projects
 
-## DNA Folding in Sperm
+### DNA Folding in Sperm
 
-## Histone Replacement
+### Histone Replacement
 
-## DNA Folding in Viruses
+### DNA Folding in Viruses
 
-## Mechanics of Cytoskeletal Formation
+### Mechanics of Cytoskeletal Formation
 
-# The Modern Laboratory Blog
+## The Modern Laboratory Blog
